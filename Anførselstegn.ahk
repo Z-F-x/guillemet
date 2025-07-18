@@ -1,0 +1,2 @@
+<^>!<::Send «   ; AltGr + < → «
+<^>!>::Send »   ; AltGr + > → »

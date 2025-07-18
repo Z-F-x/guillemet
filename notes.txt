@@ -1,0 +1,3 @@
+Copy RunAnførselstegn.bat to %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
+
+Copy Anførselstegn.ahk to C:\Tools\AutoHotkey, create Tools folder and AutoHotkey folder if not present
